@@ -8,6 +8,13 @@ Features
         1. Windows app (Recommended)
         2. Python app
     * Rewards you if you didn't relapse (Contact developer if you want the way of rewarding).
+    
+    
+![start](https://user-images.githubusercontent.com/85425005/216746178-1bddccc6-d592-46bd-9f48-4d92f2b41679.jpg)
+
+![show_data](https://user-images.githubusercontent.com/85425005/216746333-3790bc18-7551-4503-8a43-b1c9e17577c5.jpg)
+
+![changes_effects_steps](https://user-images.githubusercontent.com/85425005/216746462-8018faf0-2bc0-44d5-8723-4cdeb9814e97.jpg)
 
 
 Default Audios
