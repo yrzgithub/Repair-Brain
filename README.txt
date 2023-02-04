@@ -53,6 +53,7 @@ How this app helps?
     * As said earlier, You can add Positive effects, Side effects and Steps to overcome the compulsion. 
     * Modifications can be done directly via their respective .txt files or through the app.
     * The clock will run accrodingly. 
+    * Press space bar to play or pause the song.
 
   
   Future Plans
