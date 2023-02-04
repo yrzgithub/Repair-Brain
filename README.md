@@ -46,7 +46,7 @@ If you use PC regularly, This app is highly recommended.**
     
  ## How to use?
 
-    * Run the setup.exe file to install the app. (Ignore this step in case of using python)
+    * Run the app_setup.exe file to install the app. (Ignore this step in case of using python)
     * Click on "repair_brain_gui.exe" or "repair_brain_gui.pyw" file.
     * In the app, right-click and select "run on start".
     * Create shortcut for .exe or .pyw file.
