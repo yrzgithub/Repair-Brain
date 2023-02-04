@@ -8,19 +8,16 @@ If you use PC regularly, This app is highly recommended.**
         1. Windows app (Recommended)
         2. Python app
     * Rewards you if you didn't relapse (Contact developer if you want the way of rewarding).
-
-
-
-
+    
+    
 [![start](https://user-images.githubusercontent.com/85425005/216750714-9405f191-4ab3-4510-a9ed-92271e5e68bd.jpg)](https://user-images.githubusercontent.com/85425005/216752154-f8b1bf5d-5968-4e4f-a2da-44d977c0d8fe.mp4)
-
-
 
 
   ## Default Audios
 
-    1. https://drive.google.com/file/d/1AdTOdhL-PsDkJxr4BB_bwCpzX6jnicnb/view?usp=share_link
-    2. https://drive.google.com/file/d/1V_nD4IYJQWGq5aE7FAEeJY7BNSExozpS/view?usp=share_link
+[Kathorathil Epothume - Akkam Pakkam - Kireedam ! Tamil Song](https://drive.google.com/file/d/1AdTOdhL-PsDkJxr4BB_bwCpzX6jnicnb/view?usp=share_link)
+
+[Akkam pakkam](https://drive.google.com/file/d/1V_nD4IYJQWGq5aE7FAEeJY7BNSExozpS/view?usp=share_link)
     
     
 ## Requirements
@@ -46,16 +43,10 @@ If you use PC regularly, This app is highly recommended.**
     * To use a part of a song, search "<song name> or <favourite line> ringtone" in google.
     
     
-    
-    
 ![show_data](https://user-images.githubusercontent.com/85425005/216750748-05434603-5ea4-4cb6-8d6a-acdefd8eb579.jpg)
 
 
-
-
 ![changes_effects_steps](https://user-images.githubusercontent.com/85425005/216750763-54606ec4-8afb-4890-8d68-fa72bcf36358.jpg)
-
-
 
 
  ## How to use?
@@ -100,4 +91,4 @@ If you use PC regularly, This app is highly recommended.**
 
 [Facebook](https://www.facebook.com/y.r.kumar.1232)
 
-[Email]<seenusanjay20102002@gmail.com>
+<seenusanjay20102002@gmail.com>
