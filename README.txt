@@ -28,10 +28,10 @@ The Problem
     * Forgetting denies us from breaking the addiction cycle and it continues.
 
 
-How this app helps?
+How does this app help?
 
-    * The app regularly tracks wheather your are free or addicted.
-    * It calculates how long your are free or how long you didn't repeat the behaviour.
+    * The app regularly tracks whether you are free or addicted.
+    * It calculates how long you are free or how long you didn't repeat the behaviour.
     * Once you relapsed, The time starts from 0.
     * Positive effects, Side effects and Steps to overcome compulsions can be noted.
     * They can be edited in the same app.
@@ -41,18 +41,18 @@ How this app helps?
 
  How to use?
 
-    * Run setup.exe file to install the app. (Igonore this step in case of using python)
+    * Run the setup.exe file to install the app. (Ignore this step in case of using python)
     * Click on "repair_brain_gui.exe" or "repair_brain_gui.pyw" file.
-    * In the app, right click and select "run on start".
+    * In the app, right-click and select "run on start".
     * Create shortcut for .exe or .pyw file.
     * Now, the app starts automatically when your PC is turned on.
     * Again right click and select "Add songs".
-    * Select your favourites songs.
+    * Select your favourite songs.
     * You can also add them directly by placing them in "bgm" folder.
     * If You had relapsed, click on "handcuffed image" else click on "free image".
     * As said earlier, You can add Positive effects, Side effects and Steps to overcome the compulsion. 
     * Modifications can be done directly via their respective .txt files or through the app.
-    * The clock will run accrodingly. 
+    * The clock will run accordingly. 
 
 
 Note
@@ -70,7 +70,7 @@ Future Plans
 
 Developer Contact
 
-    * Instgram    : https://www.instagram.com/alpha_yr/
+    * Instagram    : https://www.instagram.com/alpha_yr/
     * Linked In   : https://www.linkedin.com/in/sanjay-kumar-y-r-6a88b6207/
     * YouTube
         Coding      : https://www.youtube.com/channel/UCPOkSZ7GGwgVjVQqP2MjviA
