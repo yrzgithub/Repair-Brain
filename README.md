@@ -2,7 +2,7 @@
 If you use PC regularly, This app is highly recommended.
 
 
-Features
+## Features
 
     * Can be used as 
         1. Windows app (Recommended)
@@ -17,25 +17,25 @@ Features
 
 
 
-Default Audios
+  ## Default Audios
 
     1. https://drive.google.com/file/d/1AdTOdhL-PsDkJxr4BB_bwCpzX6jnicnb/view?usp=share_link
     2. https://drive.google.com/file/d/1V_nD4IYJQWGq5aE7FAEeJY7BNSExozpS/view?usp=share_link
     
     
-Requirements
+## Requirements
 
     * Vlc
     * Python (optional)
 
 
-The Problem
+## The Problem
 
     * The major problem in overcoming addictions or compulsions (physical or psychological) is forgetting our goal ie..To become independent.
     * Forgetting denies us from breaking the addiction cycle and it continues.
 
 
-How does this app help?
+## How does this app help?
 
     * The app regularly tracks whether you are free or addicted.
     * It calculates how long you are free or how long you didn't repeat the behaviour.
@@ -58,7 +58,7 @@ How does this app help?
 
 
 
- How to use?
+ ## How to use?
 
     * Run the setup.exe file to install the app. (Ignore this step in case of using python)
     * Click on "repair_brain_gui.exe" or "repair_brain_gui.pyw" file.
@@ -74,21 +74,21 @@ How does this app help?
     * The clock will run accordingly. 
 
 
-Note
+## Note
   
     * Press space bar to play or pause the song.
     * Song will not play after you click on any entry.
     * Right click to show menu.
     
     
-Future Plans
+## Future Plans
 
     * Same will be developed for android.
     * Windows app and Android app can be synced via cloud.
     * Options for cutting the audio files will be added.
 
 
-Developer Contact
+## Developer Contact
 
     * Instagram    : https://www.instagram.com/alpha_yr/
     * Linked In    : https://www.linkedin.com/in/sanjay-kumar-y-r-6a88b6207/
