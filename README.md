@@ -25,12 +25,10 @@ If you use PC regularly, This app is highly recommended.**
     * Vlc
     * Python (optional)
 
-
 ## The Problem
 
     * The major problem in overcoming addictions or compulsions (physical or psychological) is forgetting our goal ie..To become independent.
     * Forgetting denies us from breaking the addiction cycle and it continues.
-
 
 ## How does this app help?
 
@@ -45,7 +43,6 @@ If you use PC regularly, This app is highly recommended.**
 
     * As a reward, whenever you didn't relapse, A song or part of it starts playing.
     * To use a part of a song, search "<song name> or <favourite line> ringtone" in google.
-    
     
  ## How to use?
 
@@ -62,20 +59,17 @@ If you use PC regularly, This app is highly recommended.**
     * Modifications can be done directly via their respective .txt files or through the app.
     * The clock will run accordingly. 
 
-
 ## Note
   
     * Press space bar to play or pause the song.
     * Song will not play after you click on any entry.
     * Right click to show menu.
     
-    
 ## Future Plans
 
     * Same will be developed for android.
     * Windows app and Android app can be synced via cloud.
     * Options for cutting the audio files will be added.
-
 
 ## Developer Contact
 
