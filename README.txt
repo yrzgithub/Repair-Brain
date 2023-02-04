@@ -61,7 +61,7 @@ Note
     * Song will not play after you click on any entry.
 
 
-  Future Plans
+Future Plans
 
     * Same will be developed for android.
     * Windows app and Android app can be synced via cloud.
