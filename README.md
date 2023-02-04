@@ -62,7 +62,10 @@ How this app helps?
     * The clock will run accrodingly. 
     
     
-Note : Press space bar to play or pause the song.
+  Note
+  
+    * Press space bar to play or pause the song.
+    * Song will not play after you click on any entry.
 
   
   Future Plans
