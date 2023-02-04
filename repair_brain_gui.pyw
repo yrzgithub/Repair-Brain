@@ -237,7 +237,7 @@ def edit_steps():
     text_widget.bind("<Button-1>",func=lambda e : edit_button_var.set("Save"))
     text_widget.configure(state=NORMAL)
     text_widget.delete(1.0,END)
-    text_widget.insert(END,f" Next Step :\n\n{next_steps}")
+    text_widget.insert(END,f" Next Step :\n\n   {next_steps}")
     edit_button.configure(command = lambda : save_txt(txt_next_step))
     done_button.configure(command = lambda : edit_changes())
 
@@ -246,7 +246,7 @@ def edit_changes():
     done_button_var.set("Next")
     edit_button_var.set("Save")
     text_widget.delete(1.0,END)
-    text_widget.insert(END,f" Positive Effects :\n\n{changes}")
+    text_widget.insert(END,f" Positive Effects :\n\n   {changes}")
     edit_button.configure(command = lambda : save_txt(txt_changes))
     done_button.configure(command = lambda : edit_effects())
 
@@ -255,7 +255,7 @@ def edit_effects():
     done_button_var.set("Next")
     edit_button_var.set("Save")
     text_widget.delete(1.0,END)
-    text_widget.insert(END,f" Side Effects :\n\n{effects}")
+    text_widget.insert(END,f" Side Effects :\n\n   {effects}")
     done_button_var.set("Done")
     done_button.configure(command = lambda :on_window_close())
     edit_button.configure(command=lambda : save_txt(txt_effects))
@@ -265,7 +265,7 @@ def save_txt(file_name):
     widget_data = text_widget.get(2.0,END).strip("\n").strip()
     print("Widget data : ",widget_data)
     if not widget_data.isspace() and widget_data!="":
-        txt_data = "   " + widget_data + "\n"
+        txt_data = widget_data + "\n"
         print("Text data : ",txt_data)
         data_file(mode="w",path=file_name,to_write=txt_data)
 
