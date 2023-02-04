@@ -38,17 +38,15 @@ If you use PC regularly, This app is highly recommended.**
     * It calculates how long you are free or how long you didn't repeat the behaviour.
     * Once you relapsed, The time starts from 0.
     * Positive effects, Side effects and Steps to overcome compulsions can be noted.
+![show_data](https://user-images.githubusercontent.com/85425005/216750748-05434603-5ea4-4cb6-8d6a-acdefd8eb579.jpg)
+
     * They can be edited in the same app.
+![changes_effects_steps](https://user-images.githubusercontent.com/85425005/216750763-54606ec4-8afb-4890-8d68-fa72bcf36358.jpg)
+
     * As a reward, whenever you didn't relapse, A song or part of it starts playing.
     * To use a part of a song, search "<song name> or <favourite line> ringtone" in google.
     
     
-![show_data](https://user-images.githubusercontent.com/85425005/216750748-05434603-5ea4-4cb6-8d6a-acdefd8eb579.jpg)
-
-
-![changes_effects_steps](https://user-images.githubusercontent.com/85425005/216750763-54606ec4-8afb-4890-8d68-fa72bcf36358.jpg)
-
-
  ## How to use?
 
     * Run the setup.exe file to install the app. (Ignore this step in case of using python)
