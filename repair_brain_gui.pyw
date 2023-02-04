@@ -37,6 +37,7 @@ txt_next_step = "text\\next_step.txt"
 bgm_folder = "bgm"
 
 contact_data = {"Instagram":"https://www.instagram.com/alpha_yr/","Linked In":"https://www.linkedin.com/in/sanjay-kumar-y-r-6a88b6207","Github":"https://github.com/yrzgithub","FaceBook":"https://www.facebook.com/y.r.kumar.1232"}
+git_link = "https://github.com/yrzgithub/Repair-Brain"
 yt_coding_channel_link = "https://www.youtube.com/channel/UCPOkSZ7GGwgVjVQqP2MjviA"
 yt_personal_channel = "https://www.youtube.com/channel/UC6wZDLRN5RPimxqIdoR6g_g"
 developer_mail = "seenusanjay20102002@gmail.com"
@@ -418,6 +419,7 @@ main_menu = Menu(root,tearoff=0,font=("Times New Roman",12))
 main_menu.add_command(label="Add songs",command=add_songs)  
 main_menu.add_command(label="Run on start",command=run_on_start) 
 main_menu.add_command(label="Reset",command=reset)
+main_menu.add_command(label="Open in Github",command=lambda : open_new_tab(git_link))
 main_menu.add_cascade(label="Developer Contact",menu=contact_developer_menu)  
 
 top = Label(textvariable=top_string,font=("Times New Roman",38),anchor=CENTER)
