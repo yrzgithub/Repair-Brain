@@ -90,10 +90,14 @@ If you use PC regularly, This app is highly recommended.**
 
 ## Developer Contact
 
-    * Instagram    : https://www.instagram.com/alpha_yr/
-    * Linked In    : https://www.linkedin.com/in/sanjay-kumar-y-r-6a88b6207/
-    * YouTube
-        Coding      : https://www.youtube.com/channel/UCPOkSZ7GGwgVjVQqP2MjviA
-        Info & Fun  : https://www.youtube.com/channel/UC6wZDLRN5RPimxqIdoR6g_g
-    * Facebook    : https://www.facebook.com/y.r.kumar.1232
-    * E-mail      : seenusanjay20102002@gmail.com
+[Instagram](https://www.instagram.com/alpha_yr/)
+
+[Linked In](https://www.linkedin.com/in/sanjay-kumar-y-r-6a88b6207/)
+
+[Coding YT channel](https://www.youtube.com/channel/UCPOkSZ7GGwgVjVQqP2MjviA)
+
+[Info & Fun YT channel](https://www.youtube.com/channel/UC6wZDLRN5RPimxqIdoR6g_g)
+
+[Facebook](https://www.facebook.com/y.r.kumar.1232)
+
+[Email]<seenusanjay20102002@gmail.com>
