@@ -1,5 +1,5 @@
-"Repair Brain" is an app developed to help people with addictions and compulsive behaviours.
-If you use PC regularly, This app is highly recommended.
+**"Repair Brain" is an app developed to help people with addictions and compulsive behaviours.
+If you use PC regularly, This app is highly recommended.**
 
 
 ## Features
